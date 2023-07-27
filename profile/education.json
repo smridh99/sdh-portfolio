@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sept 2017 - Aug 2022",
+            "cardTitle": "BSc in Health Informatics, Minor in Computer Science",
+            "cardSubtitle":"U of Waterloo \n Ontario, CA",
+            "cardDetailedText": "CGPA - 3.8",
+            "icon" : {
+                "src": "images/education/uwlogo.png"
+            }
+        },
+        {
+            "title": "Apr 2017",
+            "cardTitle": "Science Stream",
+            "cardSubtitle":"BCM Arya Model Sr. Secondary \n Ludhiana, Punjab",
+            "cardDetailedText": "Final Result - 93%"
+        }
+    ]
+}
