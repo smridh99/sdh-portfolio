@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/smridhsingh/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/smridh99"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:s388sing@uwaterloo.ca"
+        }
+    ]
+}

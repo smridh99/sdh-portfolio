@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "V&V Engineer",
+            "subtitle": "AGFA HealthCare",
+            "workType": "Co-op",
+            "workDescription": [
+                "Contributed towards transforming the delivery of HealthCare, led the validation effort for 3 major releases of hospital web suite."
+            ],
+            "dateText": "01/2021 – 08/2021"
+        },
+        {
+            "title": "IT Data Analyst",
+            "subtitle": "LMC Diabetes & Endo HealthCare",
+            "workType": "Co-op",
+            "workDescription": [
+                "Optimized productivity of Providers: Physicians, Researchers and Pharmacist through EMR (Accuro) software testing, benchmarking and evaluation of data results with the vendor."
+            ],
+            "dateText": "09/2019 – 12/2019"
+        },
+        {
+            "title": "Quality Project Coordinator",
+            "subtitle": "Bombardier Aerospace",
+            "workType": "Co-op",
+            "workDescription": [
+                "Implemented a cloud-based solution to automate workflow process for the efficient documentation and timely sign off of the ‘Pre-Flight Protocol’ using Quality Management software called Marcus and Python."
+            ],
+            "dateText": "01/2019 – 04/2019"
+        }
+    ]
+}
